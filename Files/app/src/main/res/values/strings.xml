@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExacTip</string>
+    <!--<string name="app_name">Penny Pincher Tip Calculator</string>-->
+    <string name="subtotal">Subtotal:</string>
+    <string name="tax">Tax:</string>
+    <string name="tax_rate">Tax Rate (%)</string>
+    <string name="eight_percent">8</string>
+    <string name="total">Total:</string>
+    <string name="tip_percent">Tip %</string>
+    <string name="tip_value">15%</string>
+    <string name="grand_total">Grand Total:</string>
+    <string name="tip_amount">Tip:</string>
+</resources>
